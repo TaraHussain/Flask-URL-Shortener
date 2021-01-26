@@ -12,7 +12,7 @@ html {
   display: grid;
   background-image: url("oldcomputer.jpg");
   background-repeat: no-repeat;
-  background-size: 300px 180px;
+  background-size: 330px 180px;
   background-attachment: fixed;
   background-position: 50% 23%;
 }
