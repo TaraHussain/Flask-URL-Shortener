@@ -1,0 +1,3 @@
+-[] Set up Flask Server
+-[] Set up Home page template
+-[] SQL Alchemy database

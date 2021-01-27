@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block head %} <title>Error</title> {% endblock %}
+
+{% block body %}
+<h1>404 Error</h1>
+<hr>
+<h2>The following URL http://127.0.0.1:5000/{{short_url_display}} does not exist</h2>
+{% endblock %}

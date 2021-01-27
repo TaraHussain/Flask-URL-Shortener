@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block head %} <title>Short URL</title> {% endblock %}
+
+{% block body %}
+<h3>https://url-shortener-dere-tara<br>.herokuapp.com/{{short_url_display}}</h3>
+<a href="https://url-shortener-dere-tara.herokuapp.com/{{short_url_display}}"><button>Go to page</button></a>
+<a href="https://url-shortener-dere-tara.herokuapp.com"><button>Back to home</button></a>
+{% endblock %}
+
