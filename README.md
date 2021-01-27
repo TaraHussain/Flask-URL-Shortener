@@ -4,7 +4,7 @@
 
 A simple URL Shortener built using Python and Flask.
 
-## Installation and Useage
+## Installation
 
 - Clone repo
 - `pipenv shell`
