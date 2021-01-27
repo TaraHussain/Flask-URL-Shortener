@@ -2,6 +2,9 @@
 
 ### https://url-shortener-dere-tara.herokuapp.com/
 
+![Screenshot](homepage.png)
+![Screenshot](urlpage.png)
+
 A simple URL Shortener built using Python and Flask.
 
 ## Installation
