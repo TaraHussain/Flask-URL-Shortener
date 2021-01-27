@@ -6,8 +6,11 @@ name = "pypi"
 [packages]
 flask-sqlalchemy = "*"
 flask = "*"
+pytest = "*"
+gunicorn = "*"
 
 [dev-packages]
+pytest-cov = "*"
 
 [requires]
 python_version = "3.9"
